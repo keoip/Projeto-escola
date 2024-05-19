@@ -45,6 +45,7 @@ p{
     font-size: 1.2em;
     font-family: 'Syne Mono';
     max-width: 350px;
+    text-align: center;
 }
 footer{
     background-image: url('../imagens/guarani-footer.png');
