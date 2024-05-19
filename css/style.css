@@ -40,13 +40,10 @@ header > h1{
 p{
     text-align: justify;
     text-indent: 3px;
-    margin: 10px 15px;
-    margin: auto;
+    margin: 10px;
     line-height: 30px;
     font-size: 1.2em;
     font-family: 'Syne Mono';
-    max-width: 350px;
-
 }
 footer{
     background-image: url('../imagens/guarani-footer.png');
