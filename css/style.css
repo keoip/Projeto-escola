@@ -41,11 +41,12 @@ p{
     text-align: justify;
     text-indent: 3px;
     margin: 10px 15px;
+    margin: auto;
     line-height: 30px;
     font-size: 1.2em;
     font-family: 'Syne Mono';
     max-width: 350px;
-    text-align: center;
+
 }
 footer{
     background-image: url('../imagens/guarani-footer.png');
