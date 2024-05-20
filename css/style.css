@@ -33,6 +33,44 @@ header > h1{
     color: transparent;
     font-size: 3em;
 }
+.caixabb > h3{
+   font-family:  'Permanent Marker';
+   text-align: center;
+   font-size: 25px;
+   background-image: linear-gradient(90deg, red, yellow, green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+  
+}
+.caixabb{
+    margin: 15px;
+    background-image: url('../imagens/guarani-main-bibliografia.jpg');
+    background-size: cover;
+    background-position: top center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.caixabb > a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Syne Mono';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: 3px 3px 15px rgb(0, 0, 0);
+}
+.caixabb > a:hover{
+    font-size: 30px;
+    transition: 1s ease-in-out;
+    background-image: linear-gradient(90deg, red, yellow, green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
 .imgs{
     display: block;
     margin: auto;
